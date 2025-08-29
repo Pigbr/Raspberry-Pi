@@ -1,1 +1,3 @@
-# Raspberry-Pi-
+# Raspberry Pi 教學材料
+
+這個專案包含樹莓派 (Raspberry Pi) 的教學資源與範例程式，適合初學者用來練習基本操作、Shell Script、自動化任務的使用。希望透過這些範例，能讓學生快速上手樹莓派的開發與日常應用。
