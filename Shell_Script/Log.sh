@@ -1,6 +1,6 @@
 #!/bin/bash
 
-logfile="$HOME/Desktop/today_project/Raspberry-Pi/Shell_Script/mylog.txt"
+logfile="$(pwd)/mylog.txt"
 
 read -p "輸入今天的心得: " note
 

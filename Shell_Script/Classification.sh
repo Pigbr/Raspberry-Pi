@@ -1,7 +1,7 @@
 #!/bin/bash
 # 分類檔案到不同資料夾
 
-target_dir="$HOME/Desktop/today_project/Raspberry-Pi/Shell_Script"
+target_dir="$(pwd)"
 mkdir -p "$target_dir/Images" "$target_dir/Documents" "$target_dir/Archives"
 
 for file in "$target_dir"/*; do
